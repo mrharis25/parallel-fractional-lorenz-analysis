@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this software, its algorithms, or a modified implementation in academic work, please cite both publications listed in the references section."
+title: "Parallel Fractional-Order Lorenz Analysis"
+type: software
+
+authors:
+  - family-names: "Calgan"
+    given-names: "Haris"
+
+year: 2026
+license: MIT
+repository-code: "https://github.com/mrharis25/parallel-fractional-lorenz-analysis"
+
+preferred-citation:
+  type: article
+  title: "Parallel Bifurcation and Lyapunov Analysis of Commensurate and Incommensurate Fractional-Order Lorenz Systems"
+  authors:
+    - family-names: "Calgan"
+      given-names: "Haris"
+    - family-names: "Li"
+      given-names: "Hang"
+  year: 2026
+  notes: "Manuscript under review"
+
+references:
+  - type: article
+    title: "Determining Lyapunov Exponents of Fractional-Order Systems: A General Method Based on Memory Principle"
+    authors:
+      - family-names: "Li"
+        given-names: "H."
+      - family-names: "Shen"
+        given-names: "Y."
+      - family-names: "Han"
+        given-names: "Y."
+      - family-names: "Dong"
+        given-names: "J."
+      - family-names: "Li"
+        given-names: "J."
+    year: 2023
+    journal: "Chaos, Solitons & Fractals"
+    volume: 168
+    article-number: "113167"
+
+  - type: article
+    title: "Parallel Bifurcation and Lyapunov Analysis of Commensurate and Incommensurate Fractional-Order Lorenz Systems"
+    authors:
+      - family-names: "Calgan"
+        given-names: "Haris"
+      - family-names: "Li"
+        given-names: "Hang"
+    year: 2026
+    notes: "Manuscript under review"
