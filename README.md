@@ -27,3 +27,14 @@ Run:
 
 
 Main_Parfor_LEandBif
+
+
+## Citation
+
+If you use this code, its algorithms, or a modified version in an academic publication, please cite the following articles:
+
+1. Li, H., Shen, Y., Han, Y., Dong, J., & Li, J. (2023). Determining Lyapunov exponents of fractional-order systems: A general method based on memory principle. Chaos, Solitons & Fractals, 168, 113167.
+
+2. H. Calgan and Hang Li,  
+   “Parallel Bifurcation and Lyapunov Analysis of Commensurate and Incommensurate Fractional-Order Lorenz Systems,”  
+   Manuscript under review.
