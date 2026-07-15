@@ -1,3 +1,15 @@
+%% Parallel Fractional-Order Lorenz Analysis
+%
+% This code performs parallel Lyapunov exponent and bifurcation analysis
+% of a fractional-order Lorenz system.
+%
+% CITATION:
+% If this code, its algorithms, or a modified implementation is used in
+% an academic publication, please cite the articles listed in README.md
+% and CITATION.cff.
+%
+% Authors: Haris Calgan and Hang Li
+% Year: 2026
 clc; clear; close all;
 
 %% ================= SYSTEM PARAMETERS =================
