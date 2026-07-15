@@ -38,3 +38,7 @@ If you use this code, its algorithms, or a modified version in an academic publi
 2. H. Calgan and Hang Li,  
    “Parallel Bifurcation and Lyapunov Analysis of Commensurate and Incommensurate Fractional-Order Lorenz Systems,”  
    Manuscript under review.
+
+## Licence
+
+This project is licensed under the MIT Licence. See the [LICENSE](LICENSE) file for details.
